@@ -1,0 +1,2 @@
+Age,"Sex (0 = Female, 1 = Male)",Chest Pain Type (cp),Max Heart Rate (thalach),Exercise Induced Angina (exang),ST Depression (oldpeak),Slope of ST Segment (slope),Number of Major Vessels (ca),Thal (0 = normal; 1 = fixed defect; 2 = reversible defect),output,timestamp
+67,1,2,56,1,87,2,2,2,,2025-08-05 15:12:48.556148
